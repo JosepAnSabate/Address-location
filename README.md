@@ -19,7 +19,11 @@ npm start
 GET    /api/v1/stores # Get Stores
 
 POST   /api/v1/stores # Add Store
-body { storeId: "0001", address: "10 main st Boston MA" }
+body { storeId: "0001", address: "10, Carrer de Sant Joan, Montblanc, Catalonia 43400, ES" }
 ```
 
-[](./img/addstore.PNG)
+## Map with the stores
+![img](./img/store-locator.PNG)
+
+## Adding new stores
+![img](./img/addstore.PNG)
