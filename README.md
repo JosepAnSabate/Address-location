@@ -1,4 +1,4 @@
-# Store Locator
+# Address-location Locator
 
 > Node/Express/Mongo/Mongoose/Geocoder//Mapbox/Bootstrap API with GeoJSON location field for store locations. 
 
